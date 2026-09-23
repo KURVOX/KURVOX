@@ -1,16 +1,41 @@
-## Hi there 👋
+# KURVOX
 
-<!--
-**KURVOX/KURVOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Play. Create. Evolve.
 
-Here are some ideas to get you started:
+Building the next generation of games, intelligent gameplay systems and virtual worlds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎮 Game Development
+
+Roblox • Luau • Unity • Unreal Engine
+
+### 🤖 AI & Intelligent Systems
+
+AI NPCs • Procedural Systems • Adaptive Gameplay
+
+### 🌐 Multiplayer & Virtual Worlds
+
+Multiplayer Architecture • Persistent Worlds • Backend Systems
+
+### ⚡ Engineering
+
+Python • C# • C++ • TypeScript • Git • Docker
+
+---
+
+## Current Focus
+
+Building experimental gaming technologies at the intersection of:
+
+- Artificial Intelligence
+- Multiplayer Gaming
+- Roblox & Luau
+- Procedural Worlds
+- Developer Tools
+
+---
+
+**KURVOX**
+
+`PLAY · CREATE · EVOLVE`
